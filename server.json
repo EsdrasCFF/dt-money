@@ -15,7 +15,46 @@
       "category": "Alimentação",
       "price": 55,
       "created_at": "2023-10-24T13:06:30.050Z"
+    },
+    {
+      "category": "Venda",
+      "price": 2000,
+      "description": "Desenvolvimento de App",
+      "type": "income",
+      "created_at": "2023-10-25T15:39:32.224Z",
+      "id": 3
+    },
+    {
+      "category": "Tecnologia",
+      "price": 50,
+      "description": "Hospedagem do Banco de Dados",
+      "type": "outcome",
+      "created_at": "2023-10-25T15:40:21.001Z",
+      "id": 4
+    },
+    {
+      "category": "Tecnologia",
+      "price": 100,
+      "description": "Hospedagem de Site Vercel",
+      "type": "outcome",
+      "created_at": "2023-10-25T15:40:47.440Z",
+      "id": 5
+    },
+    {
+      "category": "Alimentação",
+      "price": 9,
+      "description": "Café da Manhã Trabalho",
+      "type": "outcome",
+      "created_at": "2023-10-25T15:41:58.451Z",
+      "id": 6
+    },
+    {
+      "category": "Alimentação",
+      "price": 25,
+      "description": "Jantar",
+      "type": "outcome",
+      "created_at": "2023-10-25T16:31:36.760Z",
+      "id": 7
     }
-  
   ]
 }
