@@ -55,6 +55,14 @@
       "type": "outcome",
       "created_at": "2023-10-25T16:31:36.760Z",
       "id": 7
+    },
+    {
+      "category": "Venda",
+      "price": 3000,
+      "description": "Desenvolvimento de Site",
+      "type": "income",
+      "created_at": "2023-10-25T17:48:45.186Z",
+      "id": 8
     }
   ]
 }

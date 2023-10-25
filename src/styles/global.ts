@@ -1,4 +1,4 @@
-import { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from 'styled-components'
 
 export const GlobalStyle = createGlobalStyle`
   * {
@@ -9,12 +9,12 @@ export const GlobalStyle = createGlobalStyle`
 
   :focus {
     outline: 0;
-    box-shadow: 0 0 0 2px ${({theme}) => theme.COLORS.GREEN_500}
+    box-shadow: 0 0 0 2px ${({ theme }) => theme.COLORS.GREEN_500}
   }
 
   body {
-    background-color: ${({theme}) => theme.COLORS.GRAY_800};
-    color: ${({theme}) => theme.COLORS.GRAY_100};
+    background-color: ${({ theme }) => theme.COLORS.GRAY_800};
+    color: ${({ theme }) => theme.COLORS.GRAY_100};
     --webkit-font-smoothing: antialiased;
   }
 
@@ -23,4 +23,4 @@ export const GlobalStyle = createGlobalStyle`
     font-weight: 400;
     font-size: 1rem;
   }
-`;
+`
